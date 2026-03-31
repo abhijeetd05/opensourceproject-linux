@@ -1,0 +1,11 @@
+===== Open Source Manifesto =====
+Author: abhijeetd
+Date: 30 March 2026
+
+I believe in the power of open source.
+Every day, I rely on python, a tool that represents collaboration and innovation.
+To me, freedom means Free — the ability to learn, modify, and share without limits.
+I aspire to build food and share it openly with the world,
+so that others can benefit, improve it, and continue the cycle of knowledge.
+
+Open source is not just code; it is a movement.
